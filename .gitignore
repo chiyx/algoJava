@@ -10,3 +10,22 @@
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
+
+# ignore dir
+target/
+build/
+temp/
+.idea/
+.idea_modules/
+.history
+.cache
+
+# ignore file
+
+*.*~
+prj.el
+*.iml
+*.setting
+*.classpath
+*.log
+*.project
