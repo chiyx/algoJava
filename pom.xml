@@ -29,5 +29,12 @@
         </plugins>
     </build>
 
+    <dependencies>
+        <dependency>
+            <groupId>edu.princeton.cs</groupId>
+            <artifactId>algs4</artifactId>
+            <version>1.0.2</version>
+        </dependency>
+    </dependencies>
 
 </project>
