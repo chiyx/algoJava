@@ -1,4 +1,4 @@
-package algo.ch03;
+package algo.ch03.collinearpoints;
 
 public class LineSegment {
     private final Point p;   // one endpoint of this line segment

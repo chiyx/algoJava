@@ -1,4 +1,4 @@
-package algo.ch03;
+package algo.ch03.collinearpoints;
 
 import edu.princeton.cs.algs4.StdDraw;
 

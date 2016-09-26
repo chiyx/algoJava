@@ -1,4 +1,4 @@
-package algo.ch03;
+package algo.ch03.collinearpoints;
 
 import java.util.ArrayList;
 import java.util.Arrays;
